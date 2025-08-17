@@ -1,0 +1,21 @@
+\documentclass[a4paper]{article}
+
+\usepackage{geometry}
+\geometry{showframe}
+\geometry{includehead, includemp, nofoot, a4paper}
+\geometry{tmargin=2.5cm, bottom=0.5cm, hmargin=0.5cm}
+\geometry{marginparwidth=3cm, marginparsep=0.5cm, head=1.4cm, headsep=1cm}
+
+
+\pagenumbering{arabic}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[L]{\texttt{\Large Borbe, Niko Roel A.\qquad \textbf{\scshape BSCS-103} }}
+\fancyhead[R]{August 19, 2025\quad\thepage}
+
+
+\begin{document}
+\section{start here}
+
+
+\end{document}
